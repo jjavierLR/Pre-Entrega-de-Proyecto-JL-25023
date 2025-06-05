@@ -1,0 +1,102 @@
+{
+  "libreria": [
+    {
+      "id": 1,
+      "nombre": "Cien Años de Soledad",
+      "autor": "Gabriel García Márquez",
+      "año": 1967,
+      "precio": 19.99
+    },
+    {
+      "id": 2,
+      "nombre": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "año": 1605,
+      "precio": 29.99
+    },
+    {
+      "id": 3,
+      "nombre": "El Aleph",
+      "autor": "Jorge Luis Borges",
+      "año": 1945,
+      "precio": 14.99
+    },
+    {
+      "id": 4,
+      "nombre": "La Sombra del Viento",
+      "autor": "Carlos Ruiz Zafón",
+      "año": 2001,
+      "precio": 24.99
+    },
+    {
+      "id": 5,
+      "nombre": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "año": 1953,
+      "precio": 16.99
+    },
+    {
+      "id": 6,
+      "nombre": "1984",
+      "autor": "George Orwell",
+      "año": 1949,
+      "precio": 18.99
+    },
+    {
+      "id": 7,
+      "nombre": "El Principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "año": 1943,
+      "precio": 9.99
+    },
+    {
+      "id": 8,
+      "nombre": "Matar a un ruiseñor",
+      "autor": "Harper Lee",
+      "año": 1960,
+      "precio": 21.99
+    },
+    {
+      "id": 9,
+      "nombre": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "año": 1813,
+      "precio": 12.99
+    },
+    {
+      "id": 10,
+      "nombre": "El señor de los anillos",
+      "autor": "J.R.R. Tolkien",
+      "año": 1954,
+      "precio": 39.99
+    },
+    {
+      "id": 11,
+      "nombre": "Harry Potter y la piedra filosofal",
+      "autor": "J.K. Rowling",
+      "año": 1997,
+      "precio": 25.99
+    },
+    {
+      "id": 12,
+      "nombre": "El código Da Vinci",
+      "autor": "Dan Brown",
+      "año": 2003,
+      "precio": 22.99
+    },
+    {
+      "id": 13,
+      "nombre": "El guardián entre el centeno",
+      "autor": "J.D. Salinger",
+      "año": 1951,
+      "precio": 17.99
+    },
+    {
+      "id": 14,
+      "nombre": "Cumbres Borrascosas",
+      "autor": "Emily Brontë",
+      "año": 1847,
+      "precio": 15.99
+    }
+  ]
+}
